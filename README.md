@@ -1,7 +1,7 @@
 # MEER
 Repository voor het project MEER ...
 
-=== GROEPSLEDEN ===<br>
+# Groepsleden
 Thien Bui<br>
 Daan Heijmans<br>
 Amer Jaganjac<br>
